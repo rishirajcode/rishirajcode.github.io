@@ -1,2 +1,2 @@
 # rishirajcode.github.io #comingsoon
-link - https://rishirajcode.github.io
+link : https://rishirajcode.github.io
